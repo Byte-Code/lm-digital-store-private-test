@@ -230,6 +230,7 @@
     "node": ">=6.x",
     "npm": ">=3.x"
   },
+  "engines" : { "node" : ">=0.12" } ,
   "pre-commit": [
     "lint"
   ]
